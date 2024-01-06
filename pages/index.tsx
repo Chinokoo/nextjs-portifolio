@@ -1,3 +1,4 @@
+import AboutSection from "@/components/AboutSection";
 import HeroSection from "@/components/HeroSection";
 import MobileNav from "@/components/MobileNav";
 import NavBar from "@/components/NavBar";
@@ -18,6 +19,10 @@ const HomePage = () => {
 
         {/*Hero Section*/}
         <HeroSection />
+        <div className="relative z-[30]">
+          {/*About section*/}
+          <AboutSection />
+        </div>
       </div>
     </div>
   );
