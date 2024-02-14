@@ -18,11 +18,11 @@ const HeroSection = () => {
             Hi, I am <span className="text-yellow-400">Peter</span>
           </h1>
           <p className="mt-[1.5rem] text-[18px] text-[#ffffff92] ">
-            I love Coding and building software Applications.
+            I am a guy with an eye for technology.
           </p>
           <div className="mt-[2rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6">
             <Link
-              href="/PetersCv.pdf"
+              href="/peter chinoko resume.pdf"
               target="_blank"
               className="px-[2rem] w-[15rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black flex items-center space-x-2 "
             >

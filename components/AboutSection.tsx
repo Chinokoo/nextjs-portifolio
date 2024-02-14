@@ -17,14 +17,14 @@ const AboutSection = () => {
           <div className="mb-[3rem] flex items-center md:space-x-10 ">
             <span className="w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm "></span>
             <p className="text-[19px] text-slate-300 w-[80%] ">
-              My name is Peter Chinoko i am a developer who embraces Creativity,
-              logic, problem-solving, and communication skills applying them to
-              Web and App Development inorder to turn abstract concepts into
-              concrete solutions.
+              My name is Peter Chinoko i am a computer scientist who embraces
+              Creativity, logic, problem-solving, and communication skills
+              applying them to our day to day lifestyle inorder to turn abstract
+              concepts into concrete solutions.
             </p>
           </div>
           <Link
-            href="/PetersCv.pdf"
+            href="/peter chinoko resume.pdf"
             target="_blank"
             className="px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase
              bg-[#55e6a5] text-black flex items-center space-x-2 w-[15rem] "
