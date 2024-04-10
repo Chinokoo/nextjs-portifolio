@@ -18,7 +18,8 @@ const HeroSection = () => {
             Hi, I am <span className="text-yellow-400">Peter</span>
           </h1>
           <p className="mt-[1.5rem] text-[18px] text-[#ffffff92] ">
-            I am a guy with an eye for technology.
+            a computer science graduate with an interest in programming,
+            business, data analytics, computer networking, and consultancy.
           </p>
           <div className="mt-[2rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6">
             <Link
@@ -32,10 +33,10 @@ const HeroSection = () => {
           </div>
           <TextEffect />
         </div>
-        <div className="w-[500px] hidden bg-[#55e6a5] relative lg:flex items-center rounded-full h-[500px]  ">
+        <div className="w-[400px] hidden bg-[#55e6a5] relative lg:flex items-center rounded-full h-[400px]  ">
           <Image
             className="object-cover rounded-full"
-            src="/images/programmer.jpg"
+            src="/images/remove background project.png"
             alt="image of a developer"
             layout="fill"
           />

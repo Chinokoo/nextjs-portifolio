@@ -22,12 +22,12 @@ const ServicesSection = () => {
           >
             <CodeBracketSquareIcon className="w-[6rem] h-[6rem] mx-auto text-[#d3fae8]" />
             <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem] ">
-              Frontend
+              Software development
             </h1>
             <p className="text-[15px] text-[#d3d2d2] font-normal ">
-              I offer Front end web development services to create user-friendly
-              and attractive websites using HTML, CSS, and JavaScript- React and
-              Nextjs.
+              I design, code, test, and maintain software applications. It’s a
+              critical skill for building robust, efficient, and user-friendly
+              software systems
             </p>
           </div>
         </div>
@@ -38,11 +38,12 @@ const ServicesSection = () => {
           >
             <RocketLaunchIcon className="w-[6rem] h-[6rem] mx-auto text-[#d3fae8]" />
             <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem] ">
-              Backend
+              Analysis
             </h1>
             <p className="text-[15px] text-[#d3d2d2] font-normal ">
-              I can build and maintain server-side logic, databases, and APIs
-              for websites using Javascript -Nodejs, NextJS, and Python -Django.
+              Extracting meaningful insights from large datasets. Skills in data
+              manipulation, visualization, and statistical analysis are valuable
+              for decision-making and problem-solving.
             </p>
           </div>
         </div>
@@ -53,12 +54,12 @@ const ServicesSection = () => {
           >
             <CommandLineIcon className="w-[6rem] h-[6rem] mx-auto text-[#d3fae8]" />
             <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem] ">
-              MobileApp
+              Networking
             </h1>
             <p className="text-[15px] text-[#d3d2d2] font-normal ">
-              I can create and deploy Native applications for smartphones,
-              tablets, and other devices using Javascript -React Native and
-              Flutter.
+              Ability to design robust network architectures that are scalable,
+              secure, and optimized for performance. Proficiency in configuring
+              and troubleshooting network devices.
             </p>
           </div>
         </div>
