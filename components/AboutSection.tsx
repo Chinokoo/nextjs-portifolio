@@ -38,7 +38,7 @@ const AboutSection = () => {
           className="lg:w-[500px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[500px] w-[200px] h-[200px] sm:w-[300px] sm:h-[300px] relative "
         >
           <Image
-            src="/images/peter chinoko.jpg"
+            src="/images/New Profile Pic.jpg"
             alt="user"
             layout="fill"
             objectFit="contain"

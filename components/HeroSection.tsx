@@ -36,10 +36,9 @@ const HeroSection = () => {
         <div className=" hidden bg-[#55e6a5] relative lg:flex items-center rounded-full w-[400px] h-[400px]">
           <Image
             className="object-cover rounded-full"
-            src="/images/remove background project.png"
+            src="/images/peter chinoko.jpg"
             alt="image of a developer"
-            width="400"
-            height="400"
+            layout="fill"
           />
         </div>
       </div>
