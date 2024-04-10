@@ -33,12 +33,13 @@ const HeroSection = () => {
           </div>
           <TextEffect />
         </div>
-        <div className="w-[400px] hidden bg-[#55e6a5] relative lg:flex items-center rounded-full h-[400px]  ">
+        <div className=" hidden bg-[#55e6a5] relative lg:flex items-center rounded-full w-[400px] h-[400px]">
           <Image
             className="object-cover rounded-full"
             src="/images/remove background project.png"
             alt="image of a developer"
-            layout="fill"
+            width="400"
+            height="400"
           />
         </div>
       </div>
