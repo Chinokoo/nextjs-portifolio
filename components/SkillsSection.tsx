@@ -9,8 +9,7 @@ const SkillsSection = () => {
     "familiar with languages like Python, C, and HTML, CSS and Javascript. These skills enable me to design and create functional computer programs.";
   const analysis =
     "As a computer scientist, I encounter complex problems. Analytical skills help me break down problems logically and find effective solutions.";
-  const architect =
-    "improves organizations' computer systems and boosts operational efficiency and  performing cost-benefit analyses of potential changes or upgrades and identifying ways to improve existing systems.";
+  const architect = ".";
   return (
     <div
       id="education"
@@ -27,15 +26,15 @@ const SkillsSection = () => {
             desc={dmiParagraph}
           />
           <SkillsItem
-            title="Software Developer"
-            year="2022-2023"
+            title="Mobile Developer"
+            year="present"
             desc={programmer}
           />
           <SkillsLanguage
-            skill1="Programming"
-            skill2="Analytical Skills"
-            skill3="Collaborative teamwork"
-            skill4="Project Management"
+            skill1="Flutter"
+            skill2="Dart"
+            skill3="Firebase"
+            skill4="Git"
             level1="w-[91%]"
             level2="w-[65%]"
             level3="w-[80%]"
@@ -44,16 +43,16 @@ const SkillsSection = () => {
         </div>
         <div>
           <SkillsItem
-            title="Data Analysitics"
+            title="Backend Developer"
             year="2023 - 2023"
             desc={analysis}
           />
-          <SkillsItem title="Systems Architect" year="2024" desc={architect} />
+          <SkillsItem title=" . . ." year="2024" desc={architect} />
           <SkillsLanguage
-            skill1="Consultancy"
-            skill2=" System Administration"
-            skill3="Technical Writing"
-            skill4="Networking & connectivity"
+            skill1="javascript"
+            skill2=" Docker"
+            skill3="Node JS"
+            skill4="Adobe XD"
             level1="w-[50%]"
             level2="w-[40%]"
             level3="w-[70%]"

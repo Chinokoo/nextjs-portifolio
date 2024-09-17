@@ -24,7 +24,7 @@ const AboutSection = () => {
             </p>
           </div>
           <Link
-            href="/peter chinoko resume.pdf"
+            href="/PETER_CHINOKO_RESUME.pdf"
             target="_blank"
             className="px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase
              bg-[#55e6a5] text-black flex items-center space-x-2 w-[15rem] "

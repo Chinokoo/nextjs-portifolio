@@ -22,12 +22,13 @@ const ServicesSection = () => {
           >
             <CodeBracketSquareIcon className="w-[6rem] h-[6rem] mx-auto text-[#d3fae8]" />
             <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem] ">
-              Software development
+              Mobile App development
             </h1>
             <p className="text-[15px] text-[#d3d2d2] font-normal ">
               I design, code, test, and maintain software applications. It’s a
               critical skill for building robust, efficient, and user-friendly
-              software systems
+              software systems. I specialize in mobile development using flutter
+              and backend development.
             </p>
           </div>
         </div>
@@ -38,12 +39,10 @@ const ServicesSection = () => {
           >
             <RocketLaunchIcon className="w-[6rem] h-[6rem] mx-auto text-[#d3fae8]" />
             <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem] ">
-              Analysis
+              ...
             </h1>
             <p className="text-[15px] text-[#d3d2d2] font-normal ">
-              Extracting meaningful insights from large datasets. Skills in data
-              manipulation, visualization, and statistical analysis are valuable
-              for decision-making and problem-solving.
+              decision-making and problem-solving.
             </p>
           </div>
         </div>
@@ -54,12 +53,13 @@ const ServicesSection = () => {
           >
             <CommandLineIcon className="w-[6rem] h-[6rem] mx-auto text-[#d3fae8]" />
             <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem] ">
-              Networking
+              IT Support Specialist
             </h1>
             <p className="text-[15px] text-[#d3d2d2] font-normal ">
-              Ability to design robust network architectures that are scalable,
-              secure, and optimized for performance. Proficiency in configuring
-              and troubleshooting network devices.
+              i provide technical assistance and solutions to ensure seamless
+              operations. my core responsibilities are Troubleshooting hardware,
+              software, and network issues, and resolving user queries via
+              phone, email and in person support.
             </p>
           </div>
         </div>

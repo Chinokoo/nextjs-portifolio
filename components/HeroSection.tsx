@@ -1,9 +1,9 @@
 import React from "react";
 import Particle from "./Particle";
 import TextEffect from "./TextEffect";
+import Link from "next/link";
 import Image from "next/image";
 import { ArrowDownTrayIcon } from "@heroicons/react/16/solid";
-import Link from "next/link";
 
 const HeroSection = () => {
   return (
@@ -18,12 +18,12 @@ const HeroSection = () => {
             Hi, I am <span className="text-yellow-400">Peter</span>
           </h1>
           <p className="mt-[1.5rem] text-[18px] text-[#ffffff92] ">
-            a computer science graduate with an interest in programming,
-            business, data analytics, computer networking, and consultancy.
+            A Computer Science Graduate with an interest in Software
+            Engineering, IT support & Data Analytics.
           </p>
           <div className="mt-[2rem] flex-col space-y-6 sm:space-y-0 sm:flex sm:flex-row items-center sm:space-x-6">
             <Link
-              href="/peter chinoko resume.pdf"
+              href="/PETER_CHINOKO_RESUME.pdf"
               target="_blank"
               className="px-[2rem] w-[15rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black flex items-center space-x-2 "
             >

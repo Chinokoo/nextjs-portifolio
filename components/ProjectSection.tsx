@@ -14,17 +14,14 @@ const ProjectSection = () => {
         <p className="text-[1rem]">-click on the project to preview-</p>
       </h1>
       <h2 className=" header  text-[1.5rem] mt-10 text-yellow-400">
-        Data Analysis in PowerBI
+        Mobile Dev Projects
       </h2>
       <div className="w-[80%] pt-[2rem] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[2rem]">
         <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] ">
-          <Link
-            href="https://github.com/Chinokoo/Executive-Financial-Report"
-            target="_blank"
-          >
+          <Link href="https://github.com/Chinokoo/KJV" target="_blank">
             <Image
-              src="/images/ExecutiveFinacialReport.png"
-              alt="financial-report"
+              src="/images/kjv.png"
+              alt="bible screenshot"
               className="object-contain"
               layout="fill"
             />
@@ -32,12 +29,12 @@ const ProjectSection = () => {
         </div>
         <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] ">
           <Link
-            href="https://github.com/Chinokoo/Executive-Sales-Report"
+            href="https://github.com/Chinokoo/habit_tracker"
             target="_blank"
           >
             <Image
-              src="/images/ExecutiveSalesReport.png"
-              alt="sales-report"
+              src="/images/habit_tracker.png"
+              alt="habit tracker screenshot"
               className="object-contain"
               layout="fill"
             />
@@ -54,16 +51,6 @@ const ProjectSection = () => {
             <Image
               src="/images/p1.png"
               alt="game-hub"
-              className="object-contain"
-              layout="fill"
-            />
-          </Link>
-        </div>
-        <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] ">
-          <Link href="https://peter-chinoko.vercel.app/" target="_blank">
-            <Image
-              src="/images/p2.png"
-              alt="html and css portifolio"
               className="object-contain"
               layout="fill"
             />
