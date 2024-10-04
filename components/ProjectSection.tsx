@@ -14,7 +14,7 @@ const ProjectSection = () => {
         <p className="text-[1rem]">-click on the project to preview-</p>
       </h1>
       <h2 className=" header  text-[1.5rem] mt-10 text-yellow-400">
-        Mobile Dev Projects
+        FullStack Development
       </h2>
       <div className="w-[80%] pt-[2rem] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[2rem]">
         <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] ">
@@ -53,7 +53,7 @@ const ProjectSection = () => {
       </div>
 
       <h2 className=" header  text-[1.5rem] mt-10 text-yellow-400">
-        Frontend Developement
+        Frontend Development
       </h2>
       <div className="w-[80%] pt-[2rem] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[2rem]">
         <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] ">
