@@ -28,6 +28,16 @@ const ProjectSection = () => {
           </Link>
         </div>
         <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] ">
+          <Link href="https://github.com/Chinokoo/KJV" target="_blank">
+            <Image
+              src="/images/recipe_app.png"
+              alt="bible screenshot"
+              className="object-contain"
+              layout="fill"
+            />
+          </Link>
+        </div>
+        <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px] ">
           <Link
             href="https://github.com/Chinokoo/habit_tracker"
             target="_blank"
